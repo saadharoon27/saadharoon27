@@ -5,6 +5,7 @@ I'm a data enthusiast driven by a passion for turning data into actionable insig
 ## Education 🎓 🚀
 
 I pursued a Bachelor of Business Administration degree at **iLEAD College, Kolkata**, where I honed my statistical skills and explored basic analytical tools like **Microsoft Excel**. <br>
+
 Now, I'm eager to advance my skills through a **Master's in Business Analytics** at **Queens University Belfast**. My focus will be on using more advanced tools like **R**, **SQL** **Python**, **KNIME**, **Power BI**, and **Tableau** to analyze data and derive meaningful insights.
 
 ## Professional Experience 📊
@@ -17,7 +18,7 @@ During an internship with an ed-tech startup, I applied data analysis techniques
 Let's connect and explore the fascinating world of data analytics together!
 
 **LinkedIn:** [saadharoon27](https://www.linkedin.com/in/saadharoon27/) <br>
-**GitHub:**[saadharoon27](https://github.com/saadharoon27/saadharoon27)
+**GitHub:** [saadharoon27](https://github.com/saadharoon27/saadharoon27)
 
 Feel free to reach out if you share my passion for data or if you'd like to collaborate on exciting analytics projects. Let's make data-driven decisions and turn insights into action!
 
