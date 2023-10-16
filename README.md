@@ -18,7 +18,8 @@ During an internship with an ed-tech startup, I applied data analysis techniques
 Let's connect and explore the fascinating world of data analytics together!
 
 **LinkedIn:** [saadharoon27](https://www.linkedin.com/in/saadharoon27/) <br>
-**GitHub:** [saadharoon27](https://github.com/saadharoon27/saadharoon27)
+**GitHub:** [saadharoon27](https://github.com/saadharoon27/saadharoon27) <br>
+**Kaggle:** [saadharoon27](https://www.kaggle.com/saadharoon27)
 
 Feel free to reach out if you share my passion for data or if you'd like to collaborate on exciting analytics projects. Let's make data-driven decisions and turn insights into action!
 
