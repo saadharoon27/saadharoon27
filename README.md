@@ -17,6 +17,7 @@ During an internship with an ed-tech startup, I applied data analysis techniques
 
 Let's connect and explore the fascinating world of data analytics together!
 
+**Email:** [sdhrn.27@gmail.com](sdhrn.27@gmail.com) <br>
 **LinkedIn:** [saadharoon27](https://www.linkedin.com/in/saadharoon27/) <br>
 **GitHub:** [saadharoon27](https://github.com/saadharoon27/saadharoon27) <br>
 **Kaggle:** [saadharoon27](https://www.kaggle.com/saadharoon27)
