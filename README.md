@@ -4,7 +4,7 @@ I'm a data enthusiast driven by a passion for turning data into actionable insig
 
 ## Education 🎓 🚀
 
-I pursued a Bachelor of Business Administration degree at **iLEAD College, Kolkata**, where I honed my statistical skills and explored basic analytical tools like **Microsoft Excel**. <br>
+I pursued a Bachelor of Business Administration degree at **MAKAUT University, Kolkata**, where I honed my statistical skills and explored basic analytical tools like **Microsoft Excel**. <br>
 
 Now, I'm eager to advance my skills through a **Master's in Business Analytics** at **Queens University Belfast**. My focus will be on using more advanced tools like **R**, **SQL** **Python**, **KNIME**, **Power BI**, and **Tableau** to analyze data and derive meaningful insights.
 
